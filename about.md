@@ -5,4 +5,4 @@ title: About
 
 # Hi
 
-about page about this page
+this is the {{title}} page
